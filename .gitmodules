@@ -1,0 +1,3 @@
+[submodule "ArduinoLibs"]
+	path = ArduinoLibs
+	url = https://github.com/dkindel/ArduinoLibs.git
